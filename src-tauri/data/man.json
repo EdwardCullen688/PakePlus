@@ -1,14 +1,14 @@
 {
-    "name": "TauriMan",
-    "version": "0.0.1",
-    "description": "TauriMan is a tool for managing TauriMan",
-    "author": "TauriMan",
+    "name": "MRI Blog",
+    "version": "1.0.0",
+    "description": "MRI Blog by Andrew Wong",
+    "author": "Andrew Wong",
     "license": "MIT",
     "window": {
-        "title": "TauriMan",
-        "url": "http://localhost:5173/",
-        "width": 960,
-        "height": 720,
+        "title": "MRI Blog",
+        "url": "https://limpeter-mriblog.blogspot.com",
+        "width": 1200,
+        "height": 800,
         "resizable": true,
         "center": true,
         "maximized": false
